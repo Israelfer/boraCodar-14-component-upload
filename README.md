@@ -6,6 +6,10 @@
   <img src="./assets/preview.png" width="100%">
 </p>
 
+## 👀 Online
+
+[github.io/boraCodar-14-component-upload](https://israelfer.github.io/boraCodar-14-component-upload/)
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
