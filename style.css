@@ -172,10 +172,6 @@ progress::-webkit-progress-value {
   cursor: pointer;
 }
 
-.action:hover {
-  border: 1px dashed;
-}
-
 /* color */
 .uploading {
   --icon-bg: #e9e3f8;
